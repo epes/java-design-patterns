@@ -1,7 +1,7 @@
 package tv.epes.designpatterns.command;
 
 /**
- * design-patterns
+ * java-design-patterns
  * tv.epes.designpatterns.command.Actor
  * Created by epes on 4/27/2014.
  */

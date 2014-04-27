@@ -3,7 +3,7 @@ package tv.epes.designpatterns.command;
 import java.util.Scanner;
 
 /**
- * design-patterns
+ * java-design-patterns
  * tv.epes.designpatterns.command.Main
  * Created by epes on 4/27/2014.
  */
